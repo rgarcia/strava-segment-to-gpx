@@ -1,0 +1,3 @@
+package: github.com/rgarcia/strava-segment-to-gpx
+import:
+- package: github.com/strava/go.strava

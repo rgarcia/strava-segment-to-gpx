@@ -1,0 +1,6 @@
+hash: 812d568b2f64b1eb3fde348762d84855c100166438fea012e2ff682930742776
+updated: 2016-09-10T16:12:09.367444065Z
+imports:
+- name: github.com/strava/go.strava
+  version: f5c7cee1038b80d25e3d262208d295c10ca2ac4b
+testImports: []
